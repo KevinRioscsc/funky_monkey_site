@@ -11,7 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import NavBar from './NavBar'
-import Footer from "./footer"
+import Footer from "./Footer"
 import '../Assets/Css/main.css'
 
 import 'normalize.css'
